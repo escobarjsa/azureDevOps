@@ -6,7 +6,7 @@
 - [Mainline branch](#Mainline-branch).
 - [GitHub Flow](#GitHub-Flow).
 - [Trunk Based Development](#Trunk-Based-Development).
-- [Ship, Show, Ask](#Ship,-Show,-Ask).
+- [Ship, Show, Ask](#Ship,Show,Ask).
 
 
 
