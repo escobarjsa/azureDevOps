@@ -7,7 +7,7 @@
 - [GitHub Flow](#GitHub-Flow).
 - [Trunk Based Development](#Trunk-Based-Development).
 - [Ship/Show/Ask](#Ship-Show-Ask).
-- [Ship/Show/Ask](#Tabla-estrategias-de-ramificación-ventajas-y-desventajas).
+- [Tabla estrategias de ramificación ventajas y desventajas](#Tabla-estrategias-de-ramificación-ventajas-y-desventajas).
 
 
 
