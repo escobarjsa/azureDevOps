@@ -7,6 +7,8 @@
 - [GitHub Flow](#GitHub-Flow).
 - [Trunk Based Development](#Trunk-Based-Development).
 - [Ship/Show/Ask](#Ship-Show-Ask).
+- [Ship/Show/Ask](#Tabla-estrategias-de-ramificación-ventajas-y-desventajas).
+
 
 
 
@@ -149,3 +151,13 @@ Para poder llegar a seguir algunas de las categorías requiere algunas reglas.
 4. Las ramas son lo más pequeñas posibles, tienen un tiempo de vida corto y siempre salen directamente desde la rama principal.
 5. El equipo ha sabido lidiar con el ego individual, confía en el resto del equipo y considera que la rama principal puede no contener código perfecto siempre y cuando las pruebas automáticas pasan.
 
+### Tabla estrategias de ramificación ventajas y desventajas
+
+| Estrategias de ramificación| Ventajas|Desventajas|
+| :------------: | :------------: | :------------: |
+| Git flow | Posee gran cantidad de documentación. | Para un equipo pequeño tener tantas ramas se vuelve muy complejo. |
+| GitLab flow | Siempre se posee una rama con la cual comparar código y características. | Pull request con muchos cambios. |
+| Mainline branch | Flujo de trabajo simple. |Si las ramas son largas, se acumula desarrollo en una sola rama puede generar alternancias de características. |
+| GitHub Flow | Flujo de trabajo simple. |Si no se discute bien el código que se va integrar es posible afectar la funcionalidad. |
+| Trunk Based Development | Facilidad de test automatizados. |La automatización debe estar implementada de forma implacable o no funcionara la colaboración en el equipo. |
+| Ship / Show / Ask (Enviar, mostrar, preguntar) | Flujo de trabajo simple y rápido | Los equipos de trabajo deben tener autonomía, ser estremadamente responsables para evitar perdidas de tiempo y fallos en producción. |
