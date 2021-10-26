@@ -6,7 +6,7 @@
 - [Mainline branch](#Mainline-branch).
 - [GitHub Flow](#GitHub-Flow).
 - [Trunk Based Development](#Trunk-Based-Development).
-- [Ship, Show, Ask](#Ship,Show,Ask).
+- [Ship/Show/Ask](#Ship-Show-Ask).
 
 
 
@@ -80,7 +80,7 @@ El **Trunk Based Development ** es una estrategia que se basa en que el mayor ti
 
 En esta estrategia se ***prioriza hacer commits directamente a la rama principal**. En el caso de  necesitar ramas, se hacen Pull Request pequeñas y que duren poco tiempo para ser integradas lo antes posible.
 
-### Ship, Show, Ask
+### Ship Show Ask
 > Para más información sobre la estrategia de ramificación **GitHub Flow**, visitar
 [Ship / Show / Ask](https://martinfowler.com/articles/ship-show-ask.html "Ship / Show / Ask")
 
