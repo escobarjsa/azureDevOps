@@ -9,7 +9,7 @@
 - [Ship/Show/Ask](#Ship-Show-Ask).
 - [Tabla estrategias de ramificación ventajas y desventajas](#Tabla-estrategias-de-ramificación-ventajas-y-desventajas).
 
-Documentación del tablero de Azure DevOps[Tablero Azure DevOps](../azureDevOps/tableroAzureDevOps.md)
+Documentación del tablero de Azure DevOps [Tablero Azure DevOps](https://github.com/escobarjsa/Estrategias-de-ramificacion-Branching-/blob/main/tableroAzureDevOps.md)
 
 
 
