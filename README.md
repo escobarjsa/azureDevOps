@@ -8,7 +8,8 @@
 - [Trunk Based Development](#Trunk-Based-Development).
 - [Ship/Show/Ask](#Ship-Show-Ask).
 - [Tabla estrategias de ramificación ventajas y desventajas](#Tabla-estrategias-de-ramificación-ventajas-y-desventajas).
-- [Tablero Azure DevOps](../Estrategias-de-ramificacion-Branching-/tableroAzureDevOps.md)
+
+Documentación del tablero de Azure DevOps[Tablero Azure DevOps](../azureDevOps/tableroAzureDevOps.md)
 
 
 
