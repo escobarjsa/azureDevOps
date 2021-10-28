@@ -3,6 +3,13 @@
 ## Tabla de contenido
 - [Creación de tareas](#Creación-de-tareas).
 
+## Documentaciones
+
+- Documentación del tablero de Azure DevOps [ Estrategia de ramificaciçon](https://github.com/escobarjsa/azureDevOps/blob/main/README.md)
+- Documentación de Azure DevOps [Azure DevOps](https://github.com/escobarjsa/azureDevOps/blob/main/Azure%20DevOps.md)
+
+
+
 ### Creación de tareas
 
 Para la creación de un Sprint, es necesario dirigirse a Boards, después a Sprints.
